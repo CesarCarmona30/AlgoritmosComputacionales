@@ -1,7 +1,7 @@
 # Algoritmos computacionales💻
 Repositorio dedicado a la implementación y análisis de algoritmos fundamentales.
 ## Lenguaje implementado
-- CSS
+- C++
 
 "«Los algoritmos son como hechizos: si los invocas correctamente, solucionan tus problemas"». ✨
 
