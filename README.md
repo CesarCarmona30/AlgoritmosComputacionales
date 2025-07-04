@@ -1,4 +1,4 @@
-# Algoritmos-computacionales💻
+# Algoritmos computacionales💻
 Repositorio dedicado a la implementación y análisis de algoritmos fundamentales.
 ## Lenguaje implementado
 - CSS
