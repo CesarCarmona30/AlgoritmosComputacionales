@@ -1,4 +1,4 @@
-# Búsqueda Binaria
+# Búsqueda Lineal
 Se requiere un algoritmo que dada un serie de valores numéricos determine si existe o no valor a buscar.
 ## Descripción computacional
 - Un ciclo que le solicite al usuario los valores de la serie de enteros a considerar.
