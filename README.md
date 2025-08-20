@@ -1,6 +1,6 @@
 # Algoritmos computacionales💻
 
-> "«Los algoritmos son como hechizos: si los invocas correctamente, solucionan tus problemas"». ✨
+> *"Los algoritmos son como hechizos: si los invocas correctamente, solucionan tus problemas."* ✨
 
 Repositorio dedicado a la implementación y análisis de algoritmos fundamentales.
 
